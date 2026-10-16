@@ -34,7 +34,7 @@ export const MaharashtraMapSvg: React.FC<MaharashtraMapSvgProps> = ({ onSelectCi
       <div className="relative w-full aspect-[4/3] overflow-hidden">
         <img
           src="/src/assets/images/clean_maharashtra_map_1792171539812.jpg"
-          alt="Complete Map of Maharashtra showing districts, Nashik, Mumbai, Pune, Kolhapur, Aurangabad, Nanded, and Nagpur"
+          alt="/imagesclean_maharashtra_map_1792171539812.jpg"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.01]"
         />
