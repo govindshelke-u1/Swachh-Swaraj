@@ -1,0 +1,6 @@
+{
+  "name": "Swachh Swaraj - Municipal Waste Management Portal",
+  "description": "Intelligent municipal waste monitoring, garbage hotspot detection, smart dustbin placement recommendations, and ward sanitation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
