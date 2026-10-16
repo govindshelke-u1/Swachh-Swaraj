@@ -33,8 +33,8 @@ export const MaharashtraMapSvg: React.FC<MaharashtraMapSvgProps> = ({ onSelectCi
       {/* Complete Illustrated Maharashtra Map matching user's screenshot */}
       <div className="relative w-full aspect-[4/3] overflow-hidden">
         <img
-          src="/src/assets/images/clean_maharashtra_map_1792171539812.jpg"
-          alt="/images/clean_maharashtra_map_1792171539812.jpg"
+          src="/images/clean_maharashtra_map_1792171539812.jpg"
+          alt="clean_maharashtra_map_1792171539812.jpg"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.01]"
         />
