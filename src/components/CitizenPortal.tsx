@@ -41,7 +41,7 @@ export const CitizenPortal: React.FC<CitizenPortalProps> = ({
   const [citizenName, setCitizenName] = useState('Govind Shelke');
   const [address, setAddress] = useState('Near Market Road, Ward 4');
   const [description, setDescription] = useState('');
-  const [photoData, setPhotoData] = useState<string>('https://images.unsplash.com/photo-1605600659873-d808a13e4d2a?w=600&q=80');
+  const [photoData, setPhotoData] = useState<string>('');
   const [lat, setLat] = useState<number>(18.5235);
   const [lng, setLng] = useState<number>(73.8572);
   const [mapSearchQuery, setMapSearchQuery] = useState('');
